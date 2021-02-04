@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e85bd8-bc91-4810-90ad-79902310f1cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_02_04_163236_create_users_domicilio_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_02_04_163236_create_users_domicilio_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +158,7 @@
       <updated>1612451593159</updated>
       <workItem from="1612451594379" duration="17000" />
       <workItem from="1612455629118" duration="312000" />
-      <workItem from="1612455952310" duration="704000" />
+      <workItem from="1612455952310" duration="1013000" />
     </task>
     <servers />
   </component>
