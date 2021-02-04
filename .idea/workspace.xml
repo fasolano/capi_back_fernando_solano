@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e85bd8-bc91-4810-90ad-79902310f1cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/factories/UserDomicilioFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeders/UserDomicilioSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/migrations/2021_02_04_163236_create_users_domicilio_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_02_04_163236_create_users_domicilio_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,11 +166,21 @@
       <updated>1612451593159</updated>
       <workItem from="1612451594379" duration="17000" />
       <workItem from="1612455629118" duration="312000" />
-      <workItem from="1612455952310" duration="1013000" />
+      <workItem from="1612455952310" duration="6166000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="664" y="243" key="NewPhpClassDialog" timestamp="1612459176778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="243" key="NewPhpClassDialog/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1612459176778" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1612458708334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1612458708334" />
   </component>
 </project>
