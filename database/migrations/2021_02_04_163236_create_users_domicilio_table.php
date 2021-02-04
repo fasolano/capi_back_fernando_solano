@@ -14,7 +14,8 @@ class CreateUsersDomicilioTable extends Migration
     public function up()
     {
         Schema::create('users_domicilio', function (Blueprint $table) {
-            $table->increments('user_id');
+            $table->increments('id');
+            $table->integer('user_id');
             $table->string('domicilio', 100);
             $table->string('numero_exterior', 10);
             $table->string('colonia', 60);
